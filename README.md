@@ -28,11 +28,26 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 
-### 📫 How to reach me:
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+```
+```text
+⌚︎ fuseau horaire: Asia/Kolkata
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter / X:** [@your_handle](https://twitter.com/your_handle)
-- **Personal Website:** [your-website.com](https://your-website.com)
+💬 Langages de programmation: 
+Python                   8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.72%
+Jupyter Notebook         8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.72%
+YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+
+🔥 Éditeurs de code: 
+WebStorm                 9 hrs 13 mins       ████████████████░░░░░░░░░   64.07% 
+Android Studio           5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.88% 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+```
 
 <!--
 ### 📊 My GitHub Stats
