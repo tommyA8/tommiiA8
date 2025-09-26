@@ -8,8 +8,6 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 - **Agentic AI Workflows:** Building multi-agent systems with frameworks like LangGraph to orchestrate complex tasks, such as natural language to SQL generation, tool use, and permission-gated routing.
 - **RAG & Structured Data:** Developing advanced Retrieval-Augmented Generation (RAG) pipelines that leverage vector databases (like Qdrant) to provide LLMs with contextual awareness of structured schemas and documentation.
-- **Safety & Guardrails for LLMs:** Implementing safety layers to ensure generated outputs are secure, factually grounded, and reliable, especially when interacting with enterprise databases.
-
 ---
 
 ---
