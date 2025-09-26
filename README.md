@@ -10,21 +10,7 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 - **RAG & Structured Data:** Developing advanced Retrieval-Augmented Generation (RAG) pipelines that leverage vector databases (like Qdrant) to provide LLMs with contextual awareness of structured schemas and documentation.
 - **Safety & Guardrails for LLMs:** Implementing safety layers to ensure generated outputs are secure, factually grounded, and reliable, especially when interacting with enterprise databases.
 
-### 🌱 I’m currently learning:
-
-- Advanced multi-modal models and their applications.
-- Optimizing agentic systems for lower latency and cost.
-- Formal verification methods for LLM-based systems.
-
 ---
-
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| --- | --- |
-| **AI / ML** | Python, PyTorch, LangChain, LangGraph, HuggingFace, |
-| **Data Stores** | Qdrant, PostgreSQL, Pinecone, Pandas, SQL |
-| **Backend & MLOps** | FastAPI, Streamlit, Docker, Git, GitHub Actions |
 
 ---
 <!--START_SECTION:waka-->
@@ -46,18 +32,15 @@ Python                   10 repos            ██████████░�
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
-
-
  Last Updated on 26/09/2025 06:15:58 UTC
 <!--END_SECTION:waka-->
+---
+### 🛠️ My Tech Stack
 
-<!--
-### 📊 My GitHub Stats
+| Category | Technologies |
+| --- | --- |
+| **AI / ML** | Python, PyTorch, LangChain, LangGraph, HuggingFace, |
+| **Data Stores** | Qdrant, PostgreSQL, Pinecone, Pandas, SQL |
+| **Backend & MLOps** | FastAPI, Streamlit, Docker, Git, GitHub Actions |
 
-(This is where you can add your GitHub stats images)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
