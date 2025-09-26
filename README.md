@@ -27,7 +27,7 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 | **Backend & MLOps** | FastAPI, Streamlit, Docker, Git, GitHub Actions |
 
 ---
-
+<!--START_SECTION:waka-->
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
@@ -48,6 +48,7 @@ WebStorm                 9 hrs 13 mins       ███████████�
 Android Studio           5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.88% 
 PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 ```
+<!--END_SECTION:waka-->
 
 <!--
 ### 📊 My GitHub Stats
