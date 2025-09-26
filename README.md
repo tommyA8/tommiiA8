@@ -12,25 +12,35 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 581 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-From: 02 July 2023 - To: 24 September 2025
-
-Jupyter Notebook         14 repos            ███████████████░░░░░░░░░░   58.33 % 
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Jupyter Notebook         14 repos            ██████████████░░░░░░░░░░░   56.00 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
 ```
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌆 Daytime                1328 commits        ██████████████░░░░░░░░░░░   57.19 % 
-🌃 Evening                433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-```
 
- Last Updated on 26/09/2025 06:15:58 UTC
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/09/2025 18:42:29 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack
