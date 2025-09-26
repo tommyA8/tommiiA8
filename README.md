@@ -28,22 +28,15 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+**I Mostly Code in Jupyter Notebook** 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+```text
+From: 02 July 2023 - To: 24 September 2025
 
-**🐱 My GitHub Data** 
+Jupyter Notebook         14 repos            ███████████████░░░░░░░░░░   58.33 % 
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+```
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 473 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -52,39 +45,6 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 🌃 Evening                433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
 🌙 Night                  128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Wednesday                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Thursday                 469 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Friday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Sunday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         14 repos            ███████████████░░░░░░░░░░   58.33 % 
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-```
-
-
 
 **Timeline**
 
