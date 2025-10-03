@@ -12,8 +12,6 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
@@ -79,7 +77,7 @@ Python                   11 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:42:44 UTC
+ Last Updated on 03/10/2025 18:42:14 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack
