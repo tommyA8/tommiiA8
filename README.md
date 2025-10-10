@@ -12,9 +12,9 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,10 +55,14 @@ Sunday                   207 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Python                   47 mins             █████████████░░░░░░░░░░░░   53.29 % 
+YAML                     24 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Docker                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -75,7 +79,7 @@ Python                   11 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 18:42:54 UTC
+ Last Updated on 10/10/2025 18:42:23 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack
